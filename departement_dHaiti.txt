@@ -1,0 +1,10 @@
+Departement Nord
+Departement du Sud
+Departement de l'Artibonite
+Departement du Centre
+Departement de la Grande-Anse
+Departement du Nord-Est
+Departement du Nord-Ouest
+Departement du Sud-est
+Departement des Nippes
+Departement de l'Ouest
